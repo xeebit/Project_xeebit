@@ -1,0 +1,54 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:actionBarStyle">@style/ActionBar</item>
+    </style>
+    <!-- ActionBar title text -->
+
+    <style name="TextAppearanceGray.Medium">
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <style name="TextAppearanceGray">
+        <item name="android:textColor">#444444</item>
+    </style>
+
+    <style name="TextAppearanceGray.SmallPlus">
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="TextAppearanceRed.SmallPlus">
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="TextAppearanceRed">
+        <item name="android:textColor">#FF0000</item>
+    </style>
+
+    <style name="TextAppearanceWhite.Small">
+        <item name="android:textSize">13sp</item>
+    </style>
+
+    <style name="TextAppearanceWhite">
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+    <style name="TextAppearanceBlue.Small">
+        <item name="android:textSize">13sp</item>
+    </style>
+
+    <style name="TextAppearanceBlue">
+        <item name="android:textColor">@color/blue_button</item>
+    </style>
+
+    <style name="ProgressBar">
+        <item name="android:indeterminateDrawable">@drawable/progress_medium</item>
+    </style>
+
+    <style name="ActionBar" parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">@color/primary</item>
+        <item name="android:icon">@android:color/transparent</item>
+    </style>
+</resources>

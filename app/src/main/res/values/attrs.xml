@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="fontStyle" format="enum">
+        <enum name="avenirLTStd_roman" value="0" />
+        <enum name="avenirLTStd_heavy" value="1" />
+        <enum name="avenirLTStd_black" value="2" />
+
+    </attr>
+
+    <declare-styleable name="TypeFacedTextView">
+        <attr name="fontStyle" />
+    </declare-styleable>
+    <declare-styleable name="TypeFacedEditText">
+        <attr name="fontStyle" />
+    </declare-styleable>
+    <declare-styleable name="TypeFacedButton">
+        <attr name="fontStyle" />
+    </declare-styleable>
+    <declare-styleable name="TypeFacedRadioButton">
+        <attr name="fontStyle" />
+    </declare-styleable>
+
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Group App</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="signin_description">Sign In with your Xeebit ID. </string>
+    <string name="signin_invalid_description">Invalid username or password.</string>
+    <string name="signin_email_hint">Xeebit ID</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="signin_button_label">Sign In</string>
+    <string name="signin_forgot_password_label">Forgot Your Password?</string>
+    <string name="signin_password_hint">Password</string>
+    <string name="title_activity_splash">SplashActivity</string>
+
+
+</resources>
